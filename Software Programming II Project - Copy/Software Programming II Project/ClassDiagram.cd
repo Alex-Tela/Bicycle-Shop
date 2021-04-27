@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Software_Programming_II_Project.AbstractClass" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABIAA=</HashCode>
+      <FileName>AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_Programming_II_Project.Accessories" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACIgAAAQAAAAAAAABAABQAAAABAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Accessories.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Software_Programming_II_Project.AccessoriesList" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>AccessoriesList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_Programming_II_Project.Bycicle" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkgDIwCAAQAAgAAAAABEBRQBACBBQAAACIAgAAIAEgA=</HashCode>
+      <FileName>Bycicle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Software_Programming_II_Project.Bycicles" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAEEAAAABAAAAAAAAACAAAAAAAAGAAA=</HashCode>
+      <FileName>Bycicles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_Programming_II_Project.ElectricBike" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ElectricBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_Programming_II_Project.User" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQEAQAAAAAAAAAAAAACAQIAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_Programming_II_Project.Users" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAEAAAAAABAAACAAAAAAAAAAAAGAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Software_Programming_II_Project.IProductProperties" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IProductProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

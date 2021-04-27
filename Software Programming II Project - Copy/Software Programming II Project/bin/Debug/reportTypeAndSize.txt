@@ -1,0 +1,11 @@
+City,Rockrider,170,7,Aluminium,L,False,False,3,wheel,True
+City,Rockrider,160,7,Aluminium,M,False,False,3,wheel,True
+City,Pegas,300,5,Aluminium,M,False,False,7,disc,True
+City,Rockrider,150,12,Carbon,S,False,False,3,wheel,True
+Crosscountry,Rockrider,180,9,Carbon,M,True,True,10,wheel,False
+Electric,Ecycle,320,10,Aluminium,M,True,False,10,disc,True,100
+Electric,Oxelo,230,7,Aluminium,S,False,True,10,disc,False,120
+Mountain,Rockrider,200,8,Aluminium,L,True,True,6,disc,False
+Mountain,Oxelo,100,7,Aluminium,M,True,True,6,disc,False
+Mountain,Oxelo,190,8,Carbon,S,True,False,5,wheel,False
+Mountain,Oxelo,250,10,Carbon,S,True,True,5,wheel,False

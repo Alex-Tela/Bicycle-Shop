@@ -1,0 +1,26 @@
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\bin\Debug\Software Programming II Project.exe.config
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\bin\Debug\Software Programming II Project.exe
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\bin\Debug\Software Programming II Project.pdb
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software Programming II Project.csprojAssemblyReference.cache
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software_Programming_II_Project.AdminForm.resources
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software_Programming_II_Project.login.resources
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software_Programming_II_Project.MainForm.resources
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software_Programming_II_Project.Properties.Resources.resources
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software Programming II Project.csproj.GenerateResource.cache
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software Programming II Project.csproj.CoreCompileInputs.cache
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software Programming II Project.exe
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software Programming II Project.pdb
+C:\Users\alexu\source\repos\Software Programming II Project\Software Programming II Project\obj\Debug\Software_Programming_II_Project.AdminForm4.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\bin\Debug\Software Programming II Project.exe.config
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\bin\Debug\Software Programming II Project.exe
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\bin\Debug\Software Programming II Project.pdb
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software Programming II Project.csprojAssemblyReference.cache
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software_Programming_II_Project.AdminForm.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software_Programming_II_Project.AdminForm4.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software_Programming_II_Project.login.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software_Programming_II_Project.MainForm.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software_Programming_II_Project.Properties.Resources.resources
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software Programming II Project.csproj.GenerateResource.cache
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software Programming II Project.csproj.CoreCompileInputs.cache
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software Programming II Project.exe
+C:\Users\alexu\source\repos\Software Programming II Project - Copy\Software Programming II Project\obj\Debug\Software Programming II Project.pdb
